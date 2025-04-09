@@ -122,16 +122,16 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT:
 ## OnCreate Executed:
-<img src="https://github.com/user-attachments/assets/3fc7a4af-da6f-47a2-a9ce-2a0d5357dd0b" width="300">
+<img src="https://github.com/user-attachments/assets/3fc7a4af-da6f-47a2-a9ce-2a0d5357dd0b" width="50%">
 
 ## OnPause Executed:
-<img src="https://github.com/user-attachments/assets/148997cf-afb3-4480-9750-24e5717678b6" width="300">
+<img src="https://github.com/user-attachments/assets/148997cf-afb3-4480-9750-24e5717678b6" width="50%">
 
 ## OnResume Executed:
-<img src="https://github.com/user-attachments/assets/cc8d2106-38a4-4911-8fe6-32735466f104" width="300">
+<img src="https://github.com/user-attachments/assets/cc8d2106-38a4-4911-8fe6-32735466f104" width="50%">
 
 ## OnRestart Executed:
-<img src="https://github.com/user-attachments/assets/c0f5fb51-3e91-4c53-a764-5caee17ef75f" width="300">
+<img src="https://github.com/user-attachments/assets/c0f5fb51-3e91-4c53-a764-5caee17ef75f" width="50%">
 
 ## OnStart Executed:
 <img src="https://github.com/user-attachments/assets/df5260af-6949-4593-9ffe-0677e2bc5c46" width="300">
